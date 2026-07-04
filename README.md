@@ -113,7 +113,7 @@ The dashboard includes:
 │──  Dashboard
 │     └── Retail_Sales_Analysis_Dashboard.xlsx
 │
-│── 📂 Screenshots
+│──  Screenshots
 │     ├── Dashboard_.png
 │     
 │
@@ -125,19 +125,19 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+![dashboard_img](./assets/Dashboard.png)
 
 ---
 
 ## Outcome
 
-The cleaned dataset was transformed into an interactive Excel dashboard that enables quick analysis of sales performance using filters, charts, KPIs, and timelines.
+The dashboard includes KPIs, Pivot Charts, Slicers, and a Timeline for dynamic filtering, allowing users to explore key metrics such as Total Sales, Total Profit, Total Orders, Quantity Sold, Sales by Category, Sales by State, and Monthly Sales Trends to support data-driven business decisions.
 
 ---
 
 ## Author
 
-Your Name
+Your Name : Shreeya Sapate
 
-GitHub:
+GitHub :https://github.com/shreeyasapate
 LinkedIn:
