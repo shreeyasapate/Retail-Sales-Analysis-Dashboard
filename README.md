@@ -1,9 +1,9 @@
-# Retail Sales Analysis  Dashboard in Microsoft Excel
+# Retail Sales Analysis Dashboard (Microsoft Excel)
 
 ## Project Overview
-This project showcases the end-to-end process of transforming raw retail sales data into an interactive and insightful dashboard using **Microsoft Excel**. The dataset was cleaned and prepared by handling duplicate records, missing values, inconsistent text, mixed date formats, and incorrect data types to ensure accuracy and consistency.
+This project demonstrates the end-to-end process of transforming raw retail sales data into an interactive dashboard using Microsoft Excel. The dataset was cleaned by removing duplicates, handling missing values, correcting inconsistent text formatting, standardizing date formats, and validating data types to ensure data accuracy and consistency.
 
-After the data cleaning process, **Pivot Tables**, **Pivot Charts**, **Slicers**, and **Timelines** were used to build a dynamic dashboard that enables users to analyze key business metrics such as **Total Sales, Total Profit, Total Orders, Quantity Sold, Sales by Category, Sales by State, Monthly Sales Trends, and Top-Performing Products**. The dashboard provides interactive filtering and helps uncover valuable business insights for data-driven decision-making.
+After cleaning, Pivot Tables, Pivot Charts and  Slicers were used to create an interactive dashboard that helps analyze key business metrics such as Total Sales, Total Profit, Total Orders, Quantity Sold, Sales by Category, Sales by State, Monthly Sales Trends, and Sales by Supervisor. The dashboard enables users to explore insights through dynamic filtering and supports data-driven decision-making.
 
 ---
 
@@ -82,8 +82,6 @@ The dashboard includes:
 
 - Sales by Brand
 
-- Monthly Sales
-
 - Order Sales
 
 - Sales by Supervisor
@@ -93,13 +91,15 @@ The dashboard includes:
 ## Excel Features Used
 
 
-- Remove Duplicates
-- Text Functions
-- Date Conversion
+- TRIM
+- PROPER
+- IFERROR
+- DATE
 - Pivot Tables
 - Pivot Charts
 - Slicers
 - Conditional Formatting
+
 
 ---
 
@@ -131,13 +131,31 @@ The dashboard includes:
 
 ## Outcome
 
-The dashboard includes KPIs, Pivot Charts, Slicers, and a Timeline for dynamic filtering, allowing users to explore key metrics such as Total Sales, Total Profit, Total Orders, Quantity Sold, Sales by Category, Sales by State, and Monthly Sales Trends to support data-driven business decisions.
+The final dashboard provides an interactive view of retail sales performance using KPI Cards, Pivot Charts,  and Slicers. Users can dynamically filter the data to analyze Total Sales, Total Profit, Total Orders, Quantity Sold, Sales by Category, Sales by State, Monthly Sales Trends, and Sales by Supervisor, enabling faster business insights and informed decision-making.
 
 ---
+
+## Project Highlights
+
+✔ Cleaned and transformed raw retail sales data
+
+✔ Built an interactive Excel dashboard
+
+✔ Used Pivot Tables, Pivot Charts, Slicers, and Timeline
+
+✔ Created KPI Cards for Sales, Profit, Orders, and Quantity
+
+✔ Enabled dynamic filtering for business analysis
+
+✔ Generated actionable insights from sales data
+
+---
+
 
 ## Author
 
 Your Name : Shreeya Sapate
 
 GitHub :https://github.com/shreeyasapate
+
 LinkedIn:
